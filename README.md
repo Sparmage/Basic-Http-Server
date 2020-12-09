@@ -1,5 +1,4 @@
-# Basic-Proxy-Server
-
+# Basic-Http-Server
 How to use the proxy server!!
 
 Prerequisites:
